@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Novemas Heka Alfarizi**, a student from Indonesia who loves **programming, electronics, robotics, and technology**. Currently at **SMA Negeri 1 Lumajang**, chasing a future in **Electrical Engineering**.
+I'm **Novemas Heka Alfarizi**, a student from Indonesia who loves **programming, electronics, robotics, and technology**. Currently at **SMA Negeri 1 Lumajang**, chasing a future in **Software/Hardware Engineering**.
 
 I enjoy turning ideas into real things — a **program, a website, an IoT device, or a full automation system.**
 
